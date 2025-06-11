@@ -1,0 +1,11 @@
+Age,Income,Gender,Country,Score
+25,50000,Male,USA,85
+30,65000,Female,UK,92
+22,45000,Male,Canada,78
+35,80000,Female,USA,88
+28,55000,Male,UK,76
+45,120000,Female,USA,95
+33,70000,Male,Canada,82
+29,60000,Female,UK,90
+31,75000,Male,USA,87
+40,95000,Female,Canada,93
